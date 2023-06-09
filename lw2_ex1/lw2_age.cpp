@@ -31,7 +31,7 @@ int main()
     }
 
     // stage 5
-    else 
+    else if (age >= 60)
     {
         cout << "Вы пожилой гражданин";
     }
